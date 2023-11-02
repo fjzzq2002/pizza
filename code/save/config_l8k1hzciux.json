@@ -1,0 +1,1 @@
+{"name": "modadd_59", "funcs": "lambda x: (x[0]+x[1])%59", "C": 59, "n_heads": 4, "d_model": 128, "n_layers": 1, "attention_dir": "casual", "act_fn": "ReLU", "epoch": 20000, "batch_size": 3481, "lr": 0.001, "weight_decay": 2.0, "frac": 0.8, "attn_coeff": 1, "runid": "l8k1hzciux", "diff_vocab": false, "eqn_sign": false, "func": null}
